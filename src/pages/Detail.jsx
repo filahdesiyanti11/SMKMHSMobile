@@ -39,7 +39,7 @@ const Detail = () => {
       </View>
       <Image
         source={require('../assets/images/burger.png')}
-        style={{width: 200, height: 200, alignItems: 'center'}}></Image>
+        style={{width: 200, height: 200}}></Image>
     </View>
   );
 };
